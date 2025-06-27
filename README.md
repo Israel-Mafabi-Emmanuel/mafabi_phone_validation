@@ -84,7 +84,7 @@ To run this project on your local machine for development:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Israel-Mafabi-Emmanuel/this-repo-name.git
+    git clone https://github.com/Israel-Mafabi-Emmanuel/mafabi_phone_validation.git
     cd your-repo-name
     ```
 
